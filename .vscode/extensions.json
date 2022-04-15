@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "ms-vscode.live-server",
+    "esbenp.prettier-vscode",
+    "shan.code-settings-sync",
+    "PKief.material-icon-theme"
+  ]
+}

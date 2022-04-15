@@ -1,0 +1,15 @@
+{
+  "editor.tabSize": 2,
+  "editor.minimap.enabled": false,
+  "editor.formatOnSave": true,
+  "workbench.activityBar.visible": false,
+  "workbench.statusBar.visible": false,
+  "files.autoSave": "afterDelay",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "powermode.enabled": true,
+  "powermode.presets": "flames",
+  "powermode.combo.counterEnabled": "hide",
+  "powermode.shake.enabled": false,
+  "powermode.combo.location": "off",
+  "breadcrumbs.enabled": false
+}
